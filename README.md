@@ -1,9 +1,4 @@
 # Travel-Website
-Got it! Here’s the updated `README.md` reflecting the new project structure:
-
----
-
-# Travel-Website
 
 This is a travel website designed to showcase various travel destinations around the world. It features a clean and responsive design with detailed information about popular cities for tourists, along with beautiful images of each destination.
 
@@ -69,6 +64,4 @@ This project does not use any external frameworks or libraries and is built usin
 - CSS3 for styling.
 
 
-License
-This project is open-source under the MIT License.
 
