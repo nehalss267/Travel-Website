@@ -1,4 +1,4 @@
-# Travel-Website
+# Travel Website
 
 This is a travel website designed to showcase various travel destinations around the world. It features a clean and responsive design with detailed information about popular cities for tourists, along with beautiful images of each destination.
 
@@ -46,7 +46,7 @@ How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Travel-Website.git
+   git clone https://github.com/nehalss267/Travel-Website.git
    ```
 
 2. Navigate to the project folder:
